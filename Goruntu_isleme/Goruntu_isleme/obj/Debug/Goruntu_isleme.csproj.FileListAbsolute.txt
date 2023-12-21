@@ -1,0 +1,11 @@
+C:\Users\Melihcan Akgül\source\repos\Goruntu_isleme\Goruntu_isleme\bin\Debug\Goruntu_isleme.exe.config
+C:\Users\Melihcan Akgül\source\repos\Goruntu_isleme\Goruntu_isleme\bin\Debug\Goruntu_isleme.exe
+C:\Users\Melihcan Akgül\source\repos\Goruntu_isleme\Goruntu_isleme\bin\Debug\Goruntu_isleme.pdb
+C:\Users\Melihcan Akgül\source\repos\Goruntu_isleme\Goruntu_isleme\obj\Debug\Goruntu_isleme.csproj.AssemblyReference.cache
+C:\Users\Melihcan Akgül\source\repos\Goruntu_isleme\Goruntu_isleme\obj\Debug\Goruntu_isleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Melihcan Akgül\source\repos\Goruntu_isleme\Goruntu_isleme\obj\Debug\Goruntu_isleme.Form1.resources
+C:\Users\Melihcan Akgül\source\repos\Goruntu_isleme\Goruntu_isleme\obj\Debug\Goruntu_isleme.Properties.Resources.resources
+C:\Users\Melihcan Akgül\source\repos\Goruntu_isleme\Goruntu_isleme\obj\Debug\Goruntu_isleme.csproj.GenerateResource.cache
+C:\Users\Melihcan Akgül\source\repos\Goruntu_isleme\Goruntu_isleme\obj\Debug\Goruntu_isleme.csproj.CoreCompileInputs.cache
+C:\Users\Melihcan Akgül\source\repos\Goruntu_isleme\Goruntu_isleme\obj\Debug\Goruntu_isleme.exe
+C:\Users\Melihcan Akgül\source\repos\Goruntu_isleme\Goruntu_isleme\obj\Debug\Goruntu_isleme.pdb
